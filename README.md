@@ -1,6 +1,6 @@
 # Projeto java feito com a finalidade de aperfeiçoar os conhecimentos em testes Mockados
 Com este projeto foi possivel conhercer um pouco mais sobre o [Mockito](https://site.mockito.org/).
-#### A base do projeto foi disponibilizada no inicio do curso, deixando o curso focado apenas nas partes de teste
+#### A base do projeto foi disponibilizada no inicio do curso, deixando o curso focado apenas na parte de testes
 
 ## Os testes foram criados seguindo as aulas do curso  
 ### Mocks em Java: Conhecendo o Mockito
