@@ -1,6 +1,6 @@
 # Projeto java feito com a finalidade de aperfeiçoar os conhecimentos em testes Mockados
 Com este projeto foi possivel conhercer um pouco mais sobre o [Mockito](https://site.mockito.org/).
-Foi adicionado ao projeto também a ferramenta (Cucumber)[https://cucumber.io/] para compreender o conceito de [BDD](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
+Foi adicionado ao projeto também a ferramenta [Cucumber](https://cucumber.io/) para compreender o conceito de [BDD](https://pt.wikipedia.org/wiki/Behavior_Driven_Development)
 #### A base do projeto foi disponibilizada no inicio do curso, deixando o curso focado apenas na parte de testes
 
 ## Os testes foram criados seguindo as aulas do curso  
