@@ -145,7 +145,8 @@ public class Leilao {
 
 	private boolean ehUmLanceValido(Lance lance) {
 		return valorEhMaior(lance, ultimoLanceDado()) && oUltimoUsuarioNaoEhOMesmoDo(lance)
-				&& totalDeLancesDoUsuarioEhMenorIgual5(lance.getUsuario());
+				&& totalDeLancesDoUsuarioEhMenorIgual5(lance.getUsuario())
+				&& lance.getValor().intValue() > 0;
 	}
 
 	private boolean valorEhMaior(Lance lance, Lance ultimoLanceDado) {
